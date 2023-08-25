@@ -10,7 +10,6 @@ import { FiLinkedin, FiFacebook } from "react-icons/fi";
 import { PiTelegramLogoDuotone } from "react-icons/pi";
 
 import MainButtonComponent from "./MainButtonComponent";
-
 import Logo from "./../images/logo.svg";
 
 const FooterComponent = () => {
