@@ -20,6 +20,7 @@ const FooterComponent = () => {
     { path: "/blogs", label: "Blog" },
     { path: "/contact-us", label: "Contact Us" },
   ];
+
   const socialLinks: { url: string; icon: JSX.Element }[] = [
     {
       url: "https://www.linkedin.com/company/softlion/",
